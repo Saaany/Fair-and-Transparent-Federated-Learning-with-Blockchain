@@ -1,2 +1,1 @@
-Fair and Transparent Federated Learning with
-Blockchain
+# Fair and Transparent Federated Learning with Blockchain
