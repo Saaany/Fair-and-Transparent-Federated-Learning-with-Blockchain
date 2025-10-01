@@ -59,7 +59,7 @@ The system uses:
 ### Remix Compile View
 ![Remix Compile](./images/remix-compile.PNG)
 ### Remix Deploy View
-![Remix Deploy](./images/remix-deploy.PNG)
+![Remix Deploy](./images/remix-2.PNG)
 
 ### Ganache Transaction Log
 ![Ganache Transactions](./images/ganache-trxns.PNG)
