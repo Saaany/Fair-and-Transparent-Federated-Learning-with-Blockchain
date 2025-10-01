@@ -45,8 +45,8 @@ The system uses:
 
 - Import an account from Ganache into MetaMask using the private key.
 
-📸 *Suggested screenshot:* Ganache dashboard showing accounts & balances.
-
+### Ganache Dashboard
+![Ganache Dashboard](images/ganache-1.png)
 ---
 
 ### 3️⃣ Deploy Smart Contract
