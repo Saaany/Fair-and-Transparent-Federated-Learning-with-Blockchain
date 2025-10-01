@@ -56,9 +56,15 @@ The system uses:
 - Deploy using **Injected Provider - MetaMask**.  
 - Confirm deployment in MetaMask.  
 
-📸 *Suggested screenshot:* Remix contract deployed (showing contract address).  
-📸 *Suggested screenshot:* MetaMask popup confirming deployment.  
-📸 *Suggested screenshot:* Ganache transaction log.
+### Remix Compile View
+![Remix Compile](./images/remix-compile.PNG)
+### Remix Deploy View
+![Remix Deploy](./images/remix-deploy.PNG)
+
+### Ganache Transaction Log
+![Ganache Transactions](./images/ganache-trxns.PNG)
+### Ganache Blocks View
+![Ganache Blocks](./images/ganache-blocks.PNG)
 
 ---
 
@@ -69,3 +75,7 @@ source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 
 pip install torch torchvision web3 requests
+
+### 5️⃣ Run Federated Learning Node
+python fl.py
+```
